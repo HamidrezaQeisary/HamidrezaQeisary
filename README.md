@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="./README.fa.md">
-    <img src="https://img.shields.io/badge/🇮🇷%20فارسی-D9F116?style=for-the-badge&logoColor=black">
+    <img src="https://img.shields.io/badge/🇮🇷%20Persian-D9F116?style=for-the-badge&logoColor=black">
   </a>
 </p>
 
@@ -204,11 +204,11 @@ public class HamidQeisary
 <a href="https://hwmid.ir">
 <img src="https://img.shields.io/badge/🌐%20Website-hwmid.ir-111111?style=for-the-badge">
 </a>
-
+-
 <a href="https://github.com/HamidrezaQeisary">
 <img src="https://img.shields.io/badge/🐙%20GitHub-HamidrezaQeisary-111111?style=for-the-badge">
 </a>
-
+-
 <a href="https://t.me/hwmidaam">
 <img src="https://img.shields.io/badge/Telegram-@hwmidaam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
