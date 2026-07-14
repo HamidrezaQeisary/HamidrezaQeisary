@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/Banner.png" width="100%" alt="بنر حمید قیصری">
+  <img src="./assets /Banner-Fa.png" width="100%" alt="بنر حمید قیصری">
 </p>
 
 <p align="center">
