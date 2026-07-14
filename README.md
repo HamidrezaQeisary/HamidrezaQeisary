@@ -1,699 +1,313 @@
-<!-- ========================================================= -->
-<!--                       BANNER                              -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                       BANNER                           -->
+<!-- ===================================================== -->
 
 <p align="center">
-
-<img src="./assets/Banner.png" width="100%" alt="Hamid Qeisary Banner">
-
+  <img src="./assets/Banner.png" width="100%" alt="Hamid Qeisary Banner">
 </p>
 
-<br>
-
-<!-- ========================================================= -->
-<!--                    LANGUAGE SWITCHER                      -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🌍 Languages
-
-<a href="#-english">
-    <img src="https://img.shields.io/badge/🇺🇸-English-111111?style=for-the-badge&logoColor=white">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="#-فارسی">
-    <img src="https://img.shields.io/badge/🇮🇷-فارسی-d9f116?style=for-the-badge&logoColor=black">
-</a>
-
-</div>
-
----
-
-<a id="-english"></a>
-
-# 👋 Hello, I'm Hamid
-
-### Software Engineer • Founder of Farada
-
-I build modern software experiences using the **Microsoft .NET ecosystem**.
-
-From scalable backend systems to premium desktop, mobile and web applications, I enjoy transforming ideas into products that are clean, maintainable and built to last.
-
----
-
-## 🚀 About Me
-
-- 💻 Software Engineer
-- ⚙️ Specialized in Microsoft .NET Technologies
-- 🌐 Web Developer
-- 🖥 Desktop Application Developer
-- 📱 Mobile Application Developer
-- 🧠 Clean Architecture Enthusiast
-- 🎯 Performance & Scalability Focused
-- 🏢 Founder of **Farada**
-
----
-
-## ✨ Philosophy
-
-> Great software is not only about writing code.
->
-> It's about solving real problems,
-> creating memorable experiences,
-> and building products that people enjoy using.
-
----
-
-## ⚡ Quick Facts
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 👨‍💻 Current Role
-
-Founder & Software Engineer
-
-Building premium software under **Farada**
-
-</td>
-
-<td width="50%">
-
-### ❤️ Interests
-
-- Clean Code
-- UI / UX
-- Architecture
-- Performance
-- Automation
-- Product Design
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🔥 Currently Learning
-
-- Cloud Native Development
-- Docker
-- DevOps
-- AI Integration
-- Distributed Systems
-
-</td>
-
-<td>
-
-### 🎯 Goal
-
-Create digital products
-that combine
-
-Performance
-
-Elegance
-
-Scalability
-
-User Experience
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## 🛠 Building Digital Experiences
-
-*"Turning ideas into reliable software."*
-
-</div>
-
----
-
-<br>
-<!-- ========================================================= -->
-<!--                     TECH STACK                            -->
-<!-- ========================================================= -->
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css"/>
-
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇺🇸%20English-111111?style=for-the-badge">
+  </a>
+  &nbsp;
+  <a href="./README.fa.md">
+    <img src="https://img.shields.io/badge/🇮🇷%20فارسی-D9F116?style=for-the-badge&logoColor=black">
+  </a>
 </p>
 
-### Backend
+---
 
-<p>
+# Hi, I'm Hamid 👋
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+### Software Engineer • .NET Developer • Founder of Farada
 
-</p>
+I build modern software solutions across **Web**, **Desktop**, **Mobile**, and **Backend** platforms using the Microsoft .NET ecosystem.
 
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman"/>
-
-</p>
-
-### IDEs
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode"/>
-
-</p>
-
-### Operating Systems
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=windows,linux"/>
-
-</p>
-
-</div>
+Passionate about creating scalable architectures, clean code, and user-focused digital experiences.
 
 ---
 
-# 💼 Services & Expertise
+## About Me
 
-<table>
+```csharp
+public class HamidQeisary
+{
+    public string Name => "Hamid Qeisary";
 
-<tr>
+    public string Role => "Software Engineer";
 
-<td width="33%" align="center">
+    public string Company => "Farada";
 
-<h3>🌐 Web Development</h3>
+    public string Focus =>
+        "Building modern software with .NET technologies.";
 
-ASP.NET Core
+    public string[] Building =>
+    [
+        "Web Applications",
+        "Desktop Applications",
+        "Mobile Applications",
+        "REST APIs",
+        "Business Software"
+    ];
 
-REST API
-
-MVC
-
-Minimal API
-
-Authentication
-
-JWT
-
-Identity
-
-SignalR
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>🖥 Desktop Development</h3>
-
-Windows Applications
-
-WPF
-
-WinForms
-
-Modern UI
-
-Performance
-
-Custom Tools
-
-Automation
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>📱 Mobile Development</h3>
-
-Android
-
-Cross Platform
-
-REST Integration
-
-Modern UI
-
-Offline Storage
-
-API Connection
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# ⚙ Engineering Principles
-
-<div align="center">
-
-| Principle | Focus |
-|-----------|-------|
-| 🧩 Clean Architecture | Scalable Applications |
-| 📦 Modular Design | Easy Maintenance |
-| 🚀 Performance | Fast & Optimized |
-| 🔒 Security | Secure by Design |
-| 🧪 Testing | Reliable Software |
-| 📚 Documentation | Developer Friendly |
-
-</div>
-
----
-
-# 🚀 What I Build
-
-✔ Enterprise Applications
-
-✔ Business Automation Software
-
-✔ Desktop Solutions
-
-✔ Web Platforms
-
-✔ RESTful APIs
-
-✔ Admin Panels
-
-✔ Dashboards
-
-✔ CRM Systems
-
-✔ ERP Solutions
-
-✔ Cross Platform Applications
-
-✔ Modern UI Systems
-
-✔ Open Source Libraries
-
----
-
-# 🎯 Development Workflow
-
-```text
-Idea
-   │
-Planning
-   │
-Architecture
-   │
-Development
-   │
-Testing
-   │
-Deployment
-   │
-Maintenance
+    public string[] Interests =>
+    [
+        "Software Architecture",
+        "Clean Code",
+        "Performance",
+        "UI/UX",
+        "Open Source"
+    ];
+}
 ```
 
 ---
 
 <div align="center">
 
-## 💡 Favorite Technologies
-
-| Backend | Frontend | Database | Desktop |
-|---------|----------|----------|----------|
-| ASP.NET Core | React | SQL Server | WPF |
-| .NET | Next.js | MySQL | WinForms |
-| Minimal API | Tailwind CSS | EF Core | Windows |
+> **Turning ideas into reliable software.**
 
 </div>
 
 ---
 
-<br>
+<!-- ===================================================== -->
+<!--                  TECHNOLOGY STACK                     -->
+<!-- ===================================================== -->
 
-<!-- ========================================================= -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ========================================================= -->
-
-# 🚀 Featured Projects
-
-<div align="center">
+# Technology Stack
 
 <table>
-
 <tr>
 
-<td align="center" width="33%">
+<td valign="top" width="25%">
 
-<h3>🌐 Personal Website</h3>
+### 💻 Languages
 
-Professional portfolio showcasing my experience, skills and projects.
+- C#
+- JavaScript
+- TypeScript
+- SQL
+
+</td>
+
+<td valign="top" width="25%">
+
+### ⚙ Backend
+
+- .NET
+- ASP.NET Core
+- ASP.NET MVC
+- Minimal API
+- RESTful API
+- SignalR
+- JWT Authentication
+- Identity
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🗄 Database
+
+- SQL Server
+- MySQL
+- Entity Framework Core
+- LINQ
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🎨 Frontend
+
+- React
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td valign="top" width="33%">
+
+### 🛠 Development
+
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- Docker
+- Postman
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🧩 Architecture
+
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Dependency Injection
+- Repository Pattern
+- Unit of Work
+
+</td>
+
+<td valign="top" width="33%">
+
+### ☁ Environment
+
+- Windows
+- Linux
+- IIS
+- Kestrel
+- Docker
+- Nginx
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## What I Build
+
+- 🌐 Modern Web Applications
+- 🖥 Desktop Software
+- 📱 Mobile Applications
+- ⚙ RESTful APIs
+- 🏢 Enterprise Solutions
+- 📊 Admin Dashboards
+- 🔄 Business Automation Systems
+- ☁ Scalable Backend Services
+
+---
+
+<!-- ===================================================== -->
+<!--               CONNECT WITH ME                         -->
+<!-- ===================================================== -->
+
+# Connect With Me
+
+<p align="center">
 
 <a href="https://hwmid.ir">
-Visit Website
+<img src="https://img.shields.io/badge/🌐%20Website-hwmid.ir-111111?style=for-the-badge">
 </a>
 
-</td>
+<a href="mailto:hamidrezaqeisary@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-D9F116?style=for-the-badge&logoColor=black">
+</a>
 
-<td align="center" width="33%">
+<a href="https://github.com/HamidrezaQeisary">
+<img src="https://img.shields.io/badge/🐙%20GitHub-HamidrezaQeisary-111111?style=for-the-badge">
+</a>
 
-<h3>🏢 Farada</h3>
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge">
+</a>
 
-A premium software brand focused on modern web, desktop and mobile solutions.
+</p>
 
-Coming Soon
+<p align="center">
 
-</td>
+<a href="https://t.me/qhwmp">
+<img src="https://img.shields.io/badge/Telegram-@qhwmp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
-<td align="center" width="33%">
+<a href="https://instagram.com/hwmidaam">
+<img src="https://img.shields.io/badge/Instagram-@hwmidaam-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
-<h3>📦 Open Source</h3>
-
-A collection of reusable tools, libraries and utilities built with .NET.
-
-Coming Soon
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
+</p>
 
 ---
 
-# 📈 GitHub Statistics
+# Currently
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamidrezaQeisary&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidrezaQeisary&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HamidrezaQeisary&theme=github-dark-blue&hide_border=true"/>
-
-</div>
+- 🚀 Building **Farada**
+- 💻 Developing modern software with **.NET**
+- 🌱 Learning Cloud & DevOps technologies
+- 📦 Preparing open-source projects
+- 🎯 Focused on scalable software architecture
 
 ---
 
-# 📊 Contribution Graph
+# Let's Build Something Great
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamidrezaQeisary&theme=github-dark&hide_border=true"/>
-
-</div>
+If you have an idea, a project, or an opportunity to collaborate, I'd be happy to connect.
 
 ---
 
-# 🚀 Current Focus
+<p align="center">
 
-<table>
+### Thanks for visiting my profile ❤️
 
-<tr>
+**Hamid Qeisary**  
+Software Engineer • Founder of Farada
 
-<td>
+</p>
 
-### 💻 Building
+<!-- ===================================================== -->
+<!--                 GITHUB ANALYTICS                      -->
+<!-- ===================================================== -->
 
-- Farada
-- Premium Software Solutions
-- Modern Web Applications
-- Enterprise Desktop Software
-- Cross Platform Applications
+# GitHub Analytics
 
-</td>
+<p align="center">
 
-<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamidrezaQeisary&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-### 📚 Learning
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidrezaQeisary&layout=compact&theme=transparent&hide_border=true"/>
 
-- Cloud Native
-- Docker
-- Kubernetes
-- AI Integration
-- DevOps
+</p>
 
-</td>
+<p align="center">
 
-<td>
+<img width="100%" src="https://streak-stats.demolab.com?user=HamidrezaQeisary&theme=transparent&hide_border=true"/>
 
-### 🎯 Goals
-
-- Build useful products
-- Improve developer experience
-- Grow Farada
-- Contribute to Open Source
-- Create premium digital experiences
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
-# 📌 Current Interests
+## Featured Repositories
 
-<div align="center">
+<p align="center">
 
-| 💡 | |
-|---|---|
-| Backend | ASP.NET Core |
-| Architecture | Clean Architecture |
-| Database | SQL Server |
-| Desktop | WPF |
-| API | REST |
-| UI | Modern Minimal Design |
-| DevOps | Docker |
-| Learning | Cloud |
+<a href="https://github.com/HamidrezaQeisary">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamidrezaQeisary&repo=YOUR_REPOSITORY&theme=transparent&hide_border=true"/>
+</a>
 
-</div>
+<a href="https://github.com/HamidrezaQeisary">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamidrezaQeisary&repo=YOUR_REPOSITORY_2&theme=transparent&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
+<p align="center">
 
-<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HamidrezaQeisary&theme=github-dark&hide_border=true"/>
 
-> Consistency over intensity.
-
-Small improvements every day create remarkable software.
-
-</div>
-
----
-
-# 🌍 Languages
-
-<div align="center">
-
-🇮🇷 Persian — Native
-
-🇺🇸 English — Professional Working Proficiency
-
-</div>
-
----
-
-# ❤️ Beyond Coding
-
-Outside programming I enjoy
-
-- Learning new technologies
-- Designing digital products
-- UI / UX
-- Branding
-- Reading technical articles
-- Building useful tools
-- Exploring software architecture
+</p>
 
 ---
 
 <div align="center">
 
-### ⚡ "Build software that people remember."
+### Thanks for stopping by 👋
 
-</div>
-
----
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         PERSIAN                           -->
-<!-- ========================================================= -->
-
-<br>
-
----
-
-<a id="-فارسی"></a>
-
-# 👋 سلام، من حمید هستم
-
-### مهندس نرم‌افزار | بنیان‌گذار فرادا
-
-من در زمینه طراحی و توسعه نرم‌افزارهای مدرن با استفاده از اکوسیستم **Microsoft .NET** فعالیت می‌کنم.
-
-تمرکز اصلی من بر توسعه نرم‌افزارهای تحت وب، دسکتاپ، موبایل و طراحی APIهای مقیاس‌پذیر است.
-
-همچنین بنیان‌گذار برند **Farada** هستم؛ جایی که با تمرکز بر کیفیت، تجربه کاربری و معماری نرم‌افزار، محصولات دیجیتال حرفه‌ای توسعه می‌دهیم.
-
----
-
-# 💼 زمینه‌های فعالیت
-
-- 🌐 توسعه وب با ASP.NET Core
-- 🖥 توسعه نرم‌افزارهای دسکتاپ
-- 📱 توسعه اپلیکیشن موبایل
-- ⚙ طراحی REST API
-- 🗄 طراحی پایگاه داده SQL Server
-- 🧩 Clean Architecture
-- 🚀 توسعه نرم‌افزارهای Enterprise
-- 🎨 طراحی رابط کاربری مدرن
-
----
-
-# 🎯 هدف من
-
-خلق نرم‌افزارهایی که فقط «کار نکنند»، بلکه تجربه‌ای حرفه‌ای، سریع، مقیاس‌پذیر و ماندگار برای کاربران ایجاد کنند.
-
----
-
-# 🚀 پروژه‌های فعلی
-
-- توسعه برند **Farada**
-- توسعه وب‌سایت شخصی
-- ساخت کتابخانه‌های متن‌باز
-- توسعه نرم‌افزارهای دسکتاپ
-- توسعه سرویس‌های ابری مبتنی بر .NET
-
----
-
-# 🌍 راه‌های ارتباطی
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌐 Website | https://hwmid.ir |
-| 🏢 Farada | Coming Soon |
-| 🐙 GitHub | https://github.com/HamidrezaQeisary |
-| 📸 Instagram | @hwmidaam |
-| ✈ Telegram | @qhwmp |
-| 📧 Email | hamidrezaqeisary@gmail.com |
-
-</div>
-
----
-
-# ❤️ حمایت از پروژه‌ها
-
-اگر از پروژه‌های من استفاده می‌کنید، خوشحال می‌شوم با ⭐ دادن به Repositoryها از آن‌ها حمایت کنید.
-
----
-
-<div align="center">
-
-## 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**
-
-— John Johnson
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HamidrezaQeisary&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Thanks for visiting my profile!
-
-If you like my work,
-
-⭐ Star my repositories
-
-🤝 Connect with me
-
-🚀 Follow my journey
-
-</div>
-
----
-
-<div align="center">
-
-Made with ❤️ by
-
-# Hamid Qeisary
-
-### Software Engineer
-
-Founder of **Farada**
-
-🌐 https://hwmid.ir
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./assets/banner.png" width="100%">
+If you enjoy my work, consider ⭐ starring a repository or following my journey.
 
 </div>
