@@ -213,20 +213,12 @@ public class HamidQeisary
 <img src="https://img.shields.io/badge/🐙%20GitHub-HamidrezaQeisary-111111?style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge">
-</a>
-
 </p>
 
 <p align="center">
 
-<a href="https://t.me/qhwmp">
+<a href="https://t.me/hwmidaam">
 <img src="https://img.shields.io/badge/Telegram-@qhwmp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://instagram.com/hwmidaam">
-<img src="https://img.shields.io/badge/Instagram-@hwmidaam-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </p>
