@@ -254,14 +254,6 @@ public class HamidQeisary
 
 <br>
 
-<div align="center">
-
-<img src="./assets/banner-fa.png" width="100%" alt="Footer Banner"/>
-
-</div>
-
-<br>
-
 <p align="center">
 
 <strong>حمیدرضا قیصری</strong><br>
