@@ -107,7 +107,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 🗄 Database
 
@@ -118,7 +118,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 🎨 Frontend
 
@@ -136,7 +136,7 @@ public class HamidQeisary
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### 🛠 Development
 
@@ -149,7 +149,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### 🧩 Architecture
 
@@ -162,7 +162,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="30%">
+<td valign="top" width="20%">
 
 ### ☁ Environment
 
