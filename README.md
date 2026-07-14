@@ -244,8 +244,6 @@ Software Engineer • Founder of Farada
 
 <div align="center">
 
-### Thanks for stopping by 👋
-
 If you enjoy my work, consider ⭐ starring a repository or following my journey.
 
 </div>
