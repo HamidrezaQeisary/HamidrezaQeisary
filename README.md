@@ -205,20 +205,12 @@ public class HamidQeisary
 <img src="https://img.shields.io/badge/🌐%20Website-hwmid.ir-111111?style=for-the-badge">
 </a>
 
-<a href="mailto:hamidrezaqeisary@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-Contact-D9F116?style=for-the-badge&logoColor=black">
-</a>
-
 <a href="https://github.com/HamidrezaQeisary">
 <img src="https://img.shields.io/badge/🐙%20GitHub-HamidrezaQeisary-111111?style=for-the-badge">
 </a>
 
-</p>
-
-<p align="center">
-
 <a href="https://t.me/hwmidaam">
-<img src="https://img.shields.io/badge/Telegram-@qhwmp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-@hwmidaam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 </p>
@@ -245,56 +237,10 @@ If you have an idea, a project, or an opportunity to collaborate, I'd be happy t
 
 ### Thanks for visiting my profile ❤️
 
-**Hamid Qeisary**  
+**HamidReza Qeisary**  
 Software Engineer • Founder of Farada
 
 </p>
-
-<!-- ===================================================== -->
-<!--                 GITHUB ANALYTICS                      -->
-<!-- ===================================================== -->
-
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamidrezaQeisary&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidrezaQeisary&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com?user=HamidrezaQeisary&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/HamidrezaQeisary">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamidrezaQeisary&repo=YOUR_REPOSITORY&theme=transparent&hide_border=true"/>
-</a>
-
-<a href="https://github.com/HamidrezaQeisary">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HamidrezaQeisary&repo=YOUR_REPOSITORY_2&theme=transparent&hide_border=true"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HamidrezaQeisary&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
 
 <div align="center">
 
