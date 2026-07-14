@@ -81,7 +81,7 @@ public class HamidQeisary
 <table>
 <tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 💻 Languages
 
@@ -92,7 +92,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### ⚙ Backend
 
