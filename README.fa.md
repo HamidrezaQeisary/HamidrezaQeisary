@@ -33,16 +33,16 @@
 ```csharp
 public class HamidQeisary
 {
-    public string نام => "حمید قیصری";
+    public string Name => "حمید قیصری";
 
-    public string شغل => "مهندس نرم‌افزار";
+    public string Role => "مهندس نرم‌افزار";
 
-    public string برند => "فرادا";
+    public string Company => "فرادا";
 
-    public string تمرکز =>
+    public string Focus =>
         "توسعه نرم‌افزارهای مدرن با فناوری‌های دات‌نت";
 
-    public string[] حوزه_فعالیت =>
+    public string[] Building =>
     [
         "توسعه وب",
         "توسعه دسکتاپ",
@@ -51,7 +51,7 @@ public class HamidQeisary
         "نرم‌افزارهای سازمانی"
     ];
 
-    public string[] علاقه_مندی =>
+    public string[] Interests =>
     [
         "معماری نرم‌افزار",
         "کدنویسی تمیز",
@@ -81,7 +81,7 @@ public class HamidQeisary
 <table>
 <tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 💻 زبان‌های برنامه‌نویسی
 
@@ -92,7 +92,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### ⚙ بک‌اند
 
@@ -107,7 +107,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 🗄 پایگاه داده
 
@@ -118,7 +118,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 ### 🎨 فرانت‌اند
 
@@ -136,7 +136,7 @@ public class HamidQeisary
 <table>
 <tr>
 
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### 🛠 ابزارهای توسعه
 
@@ -149,7 +149,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### 🧩 معماری نرم‌افزار
 
@@ -162,7 +162,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### ☁ محیط اجرا
 
@@ -202,31 +202,15 @@ public class HamidQeisary
 <p align="center">
 
 <a href="https://hwmid.ir">
-<img src="https://img.shields.io/badge/🌐%20وب‌سایت-hwmid.ir-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/🌐%20Website-hwmid.ir-111111?style=for-the-badge">
 </a>
-
-<a href="mailto:hamidrezaqeisary@gmail.com">
-<img src="https://img.shields.io/badge/📧%20ایمیل-تماس-D9F116?style=for-the-badge&logoColor=black">
-</a>
-
+-
 <a href="https://github.com/HamidrezaQeisary">
 <img src="https://img.shields.io/badge/🐙%20GitHub-HamidrezaQeisary-111111?style=for-the-badge">
 </a>
-
-<a href="https://www.linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-پروفایل-0A66C2?style=for-the-badge">
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://t.me/qhwmp">
-<img src="https://img.shields.io/badge/Telegram-@qhwmp-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="https://instagram.com/hwmidaam">
-<img src="https://img.shields.io/badge/Instagram-@hwmidaam-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+-
+<a href="https://t.me/hwmidaam">
+<img src="https://img.shields.io/badge/Telegram-@hwmidaam-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 </p>
@@ -252,8 +236,7 @@ public class HamidQeisary
 <p align="center">
 
 ### از اینکه از پروفایل من بازدید کردید، سپاسگزارم ❤️
-
-**حمید قیصری**  
+**حمیدرضا قیصری**  
 مهندس نرم‌افزار • بنیان‌گذار **فرادا**
 
 </p>
@@ -265,17 +248,6 @@ public class HamidQeisary
 <br>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HamidrezaQeisary&label=Profile+Views&style=for-the-badge&color=d9f116"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💚 ممنون از اینکه از پروفایل من بازدید کردید.
-
 اگر پروژه‌ها و فعالیت‌هایم برایتان جالب بود، خوشحال می‌شوم ریپازیتوری‌ها را ⭐ کنید یا من را دنبال کنید.
 
 </div>
@@ -292,7 +264,7 @@ public class HamidQeisary
 
 <p align="center">
 
-<strong>حمید قیصری</strong><br>
+<strong>حمیدرضا قیصری</strong><br>
 
 مهندس نرم‌افزار • توسعه‌دهنده .NET • بنیان‌گذار <strong>فرادا</strong>
 
@@ -302,7 +274,7 @@ public class HamidQeisary
 
 <sub>
 
-© 2026 Hamid Qeisary • Made with ❤️ in Iran
+© 2026 Hamidreza Qeisary • Made with ❤️ in Iran
 
 </sub>
 
