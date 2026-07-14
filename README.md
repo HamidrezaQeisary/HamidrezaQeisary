@@ -162,7 +162,7 @@ public class HamidQeisary
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="30%">
 
 ### ☁ Environment
 
